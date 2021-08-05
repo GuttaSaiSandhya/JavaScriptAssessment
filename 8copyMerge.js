@@ -9,3 +9,10 @@ const details = {
 const character = Object.assign(name, details);
 
 console.log(character);
+
+//Output: {
+//firstName: 'Philip',
+// lastName: 'Fry',
+//job: 'Delivery Boy',
+//employer: 'Planet Express'
+}
