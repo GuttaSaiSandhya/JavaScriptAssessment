@@ -24,3 +24,9 @@ for (var i = 0; i < library.length; i++)
      console.log(book + "still need to read ");
     }
    }
+
+
+//output: 
+//        "'The Road Ahead' by Bill Gates.Already read "
+//        "'Walter Isaacson' by Steve Jobs.Already read "
+//        "'Mockingjay: The Final Book of The Hunger Games' by Suzanne Collins.still need to read "
